@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #1b1b1b;
+  font-size: 1.75rem;
+}
+
+h2,
+h3 {
+  color: #1b1b1b;
+  font-size: 1.25rem;
+}
+
+body {
+  background: #eaeaea;
+  font-family: 'Roboto', sans-serif;
+}
+
+ul,
+ol {
+  color: #1b1b1b;
+  font-size: 1rem;
+}
