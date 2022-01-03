@@ -4,13 +4,40 @@
   box-sizing: border-box;
 }
 
-h1 {
+.page{
+background-color:#FFFFFF;
+width: 50%;
+height: 93.75rem;
+margin: 2% auto;
+border-radius: 1%;
+
+}
+
+
+ 
+
+
+img{
+  margin-left: 16%;
+}
+
+p{
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+
+
+h1{
+  
+  text-align: center;
   color: #1b1b1b;
   font-size: 1.75rem;
 }
 
 h2,
 h3 {
+   text-align: center; 
   color: #1b1b1b;
   font-size: 1.25rem;
 }
@@ -22,6 +49,7 @@ body {
 
 ul,
 ol {
+  margin-left: 5%;
   color: #1b1b1b;
   font-size: 1rem;
 }
