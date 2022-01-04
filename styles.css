@@ -1,35 +1,35 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
-.page{
-background-color:#FFFFFF;
-width: 50%;
-height: 93.75rem;
-margin: 2% auto;
-border-radius: 1%;
-
+.page {
+  background-color: #ffffff;
+  width: 45%;
+  height: 83rem;
+  margin: 1% auto;
+  border-radius: 1%;
 }
 
+/* #pega somente o ID
+.+nome funciona somente para class 
+ou .{} é global */
 
- 
-
-
-img{
+img {
   margin-left: 16%;
 }
 
-p{
+p {
   margin-left: 5%;
   margin-bottom: 5%;
 }
 
+/* figure{
+  text-align:right;
+} */
 
-
-h1{
-  
+h1 {
   text-align: center;
   color: #1b1b1b;
   font-size: 1.75rem;
@@ -37,7 +37,7 @@ h1{
 
 h2,
 h3 {
-   text-align: center; 
+  text-align: center;
   color: #1b1b1b;
   font-size: 1.25rem;
 }
@@ -52,4 +52,9 @@ ol {
   margin-left: 5%;
   color: #1b1b1b;
   font-size: 1rem;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
