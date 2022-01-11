@@ -1,1 +1,1 @@
-Esse projeto foi criado para botar em prática algumas maneiras de escrever o código e conseguir aprender.
+Esse projeto foi criado com intuito de botar alguns conhecimentos básicos em prática.
